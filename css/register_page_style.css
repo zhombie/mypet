@@ -1,0 +1,169 @@
+.input_area{
+	margin-top: 50px;
+}
+
+.choice{
+	margin: 0 auto; 
+	display: block;
+}
+
+.choice a{
+	display: inline;
+	background-color: #5a9aa8;
+	color: white;
+	text-decoration: none;
+	border: none;
+	padding: 10px 80px;
+}
+
+.choice_active{
+	background-color: black;
+}
+
+#login-form, #reg-login-form{
+	margin: 10px;
+	text-align: center;
+	/*display: block;*/
+}
+
+#login-form{
+	margin-top: 50px !important;
+}
+
+#reg2-login-form{
+	text-align: center;
+	margin-top: 50px !important;
+}
+
+.reg_button{
+	background-color: #5a9aa8;
+	color: white;
+	border: none;
+	padding: 10px 80px;
+	margin: 0 auto; 
+	display: block;
+}
+
+.log_button{
+	background-color: #5a9aa8;
+	color: white;
+	border: none;
+	padding: 10px 100px;
+	margin: 0 auto; 
+	display: block;		
+}
+
+.reg_login_btn{
+	margin-top: 0px !important;
+	text-align: center;
+}
+
+.right_side{
+	margin: 25px;
+	padding: 40px; 
+}
+
+.add{
+	background-color: #5a9aa8;
+	color: white;
+	text-decoration: none;
+	border: none;
+	padding: 10px 80px;
+	margin: 0 auto; 
+	display: block;
+}
+
+.add:hover{
+	color: #eeeeee;
+}
+
+#visible{
+	display: block;
+}
+
+.category_pick li{
+	background-color: white;
+}
+
+#foo{
+	text-align: center;
+	display: none;
+}
+
+.selected{
+	/*border: none;*/
+	padding: 5px;
+}
+
+.user_type_ask{
+	font-size: 16px;
+	margin-right: 25px;
+}
+
+.user_type_div{
+	padding: 10px 0px 0px;
+	margin: 15px 15px;
+}
+
+.user_type_div select{
+	padding: 8px 15px;
+	font-size: 16px;
+}
+
+.user_type_div option{
+	font-size: 16px;
+}
+
+.dob_selected{
+	padding: 10px 0px 0px;
+	margin: 0px 15px;
+}
+
+.dob_selected select{
+	padding: 8px 15px;
+	font-size: 16px;
+}
+
+.dob_selected option{
+	font-size: 16px;
+}
+
+.dob_text{
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+.reg_dob_selected{
+	margin-left: 5px;
+}
+
+.login_page_footer{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	padding: 1px 0;
+	background-color: #5a9aa8;
+}
+
+#user{
+	display: none;
+	margin-bottom: 50px;
+}
+
+#doctor{
+	display: none;
+	margin-bottom: 50px;
+}
+
+#doctor input{
+	padding: 10px;
+	padding-right: 100px;
+	text-align: left;
+}
+
+#process_area{
+	font-size: 20px;
+	margin-top: 100px;
+	text-align: center;
+}
